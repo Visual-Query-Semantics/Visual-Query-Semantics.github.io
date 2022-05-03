@@ -1,2 +1,1 @@
-# Visual-Query-Semantics.github.io
-website
+The website is coming soon ...
